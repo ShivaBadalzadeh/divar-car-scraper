@@ -98,4 +98,4 @@ Divar may block scraping requests if too many requests are sent in a short perio
 
 ## Author
 
-Developed by Me 🙂#
+Developed by Shiva Badalzadeh
